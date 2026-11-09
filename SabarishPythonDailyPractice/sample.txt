@@ -1,0 +1,3 @@
+Hello, Python!
+Welcome to File Operations.
+This line is added using append mode.
